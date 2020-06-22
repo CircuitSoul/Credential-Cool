@@ -7,7 +7,7 @@
       Tor 
    
 # Install Tor service
-    The installation of Tor depends on your system, and is detailed on the official website. On a Debian or Raspbian, we use:
+    The installation of Tor depends on your system, and is detailed on the official website(https://www.torproject.org/). On a Debian or Raspbian, we use:
             $ sudo apt install tor
     To launch Tor, just run:
             $ sudo service tor start
