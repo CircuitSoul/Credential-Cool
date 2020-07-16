@@ -24,3 +24,7 @@
 
 # How to use
     $ python3 cc.py <example.com>
+
+
+# Install + POC (video):
+https://youtu.be/dr3G35Yqj-8
