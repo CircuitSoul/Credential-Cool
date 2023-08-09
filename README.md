@@ -28,3 +28,6 @@
 
 # Install + POC (video):
 https://youtu.be/dr3G35Yqj-8
+
+# Use this tool for parse creds.json
+https://github.com/CircuitSoul/PassPattern
